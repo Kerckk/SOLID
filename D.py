@@ -1,6 +1,6 @@
 #неправильный вид кода
 #from enum import Enum
-from abc import ABCMeta, abstractmethod
+#from abc import ABCMeta, abstractmethod
 
 #class Teams(Enum):
   #BLUE_TEAM = 1
