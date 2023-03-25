@@ -1,5 +1,6 @@
-
 #неправильный вид кода
+#так как программные сущности не должны зависеть от методов, которые они не используют.
+
 from abc import ABCMeta, abstractmethod
 class CommunicationDevice():
   @abstractmethod
